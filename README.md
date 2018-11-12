@@ -1,2 +1,2 @@
 # OpenCamera
-A open source camera project based on Android
+An open source camera project based on Android
